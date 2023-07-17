@@ -4,4 +4,6 @@
 
 2023.7.13 18：27 更新3.0 AioT for blink&yawn.ipynb,添加数据转移到数据库部分
 
-2023.7.18 2:10 更新40 增添人脸识别，使用环境，python3.6，dlib和face_recognition文件见库附件
+2023.7.18 2:10 更新4.0 增添人脸识别，使用环境，python3.6，dlib和face_recognition文件见库附件
+
+4.0补充，opencv库下载最新版即可，由于太大无法上传github
